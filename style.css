@@ -30,7 +30,7 @@ main {
   background-size: cover;
   border-radius: 20px;
   box-shadow: 0 20px 30px rgba(255, 255, 255, 0.3) inset;
-  transition: transform 4s, left 3s, top 4s, width 3s, height 3s;
+  transition: transform 2s, left 2s, top 2s, width 2s, height 2s;
 
   &:nth-child(1), &:nth-child(2) {
     left: 0;
