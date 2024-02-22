@@ -9,6 +9,7 @@ body {
   display: grid;
   place-items: center;
   overflow: hidden;
+  background: black;
 }
 
 main {
@@ -154,4 +155,28 @@ main {
     &:nth-child(5) {left: calc(50% + 280px);}
     &:nth-child(6) {left: calc(50% + 420px); opacity: 0;}
   }
+}
+
+.img1 {
+  background-image: url('./img/1.png')
+
+}
+.img2 {
+  background-image: url('./img/2.jpg')
+
+}
+.img3 {
+  background-image: url('./img/3.jpg')
+
+}
+.img4 {
+  background-image: url('./img/4.jpg')
+
+}
+.img5 {
+  background-image: url('./img/5.png')
+
+}
+.img6 {
+  background-image: url('./img/6.jpg')
 }
